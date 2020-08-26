@@ -9,4 +9,15 @@ Hashlib provides the following constant attributes:
 
 ![Source code in kali linux](./img.png)
 
+# Code
+
+[Source code in Jupyter notebook with python](https://github.com/Haytam222/Hashlib/blob/master/Hash.ipynb)
+
+# Infos 
+
++ [Linkedin](https://www.linkedin.com/in/haytam-el-youssfi/)
++ [Twitter](https://twitter.com/HaytamYoussfi)
+
+
+
 
